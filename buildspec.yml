@@ -4,7 +4,7 @@ environment_variables:
     plaintext:
         HUGO_VERSION: "0.121.1"
 
- phases:
+phases:
     install:
         runtime-versions:
             docker: 18
